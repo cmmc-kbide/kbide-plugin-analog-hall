@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-analog-hall",
+  "title": "analog-hall",
+  "keywords": "analog-hall, esp32, esp8266, arduino",
+  "description": "analog-hall plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-analog-hall/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-analog-hall/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
