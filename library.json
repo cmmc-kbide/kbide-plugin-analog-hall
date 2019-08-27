@@ -1,11 +1,11 @@
 {
   "name" : "kbide-plugin-analog-hall",
-  "title": "analog-hall",
+  "title": "KY-003 HALL MAGNETIC SENSOR MODULE",
   "keywords": "analog-hall, esp32, esp8266, arduino",
   "description": "analog-hall plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-analog-hall/",
-  "author": "cmmakerclub",
+  "author": "Prawared",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-analog-hall/",
   "version": "1.0.0",
